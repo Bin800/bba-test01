@@ -29,6 +29,11 @@
 - git config user.name "<tên bạn>"
 - git config user.email "<email>"
 
+## 8. Một số câu lệnh liên qan đến nhánh, checkout
+- Tạo nhánh mới và chuyển sang nhánh đó: git checkout -b ten-nhanh-moi
+- Cập nhật code mới nhất từ GitHub: git pull origin main
+- Chuyển về nhánh main: git checkout main
+
 
 ---
 
